@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* Chaos Theory by James Gleick
+* The HitchHiker's Guide to the Galaxy by Douglas Adams
